@@ -1,8 +1,20 @@
-## Hi there 👋
-
 <div align="center">
-  <h1>👋 Welcome!</h1>
+  <h1>👋 Hola!</h1>
 </div>
+
+<p align="center">
+  <img
+  alt="Foto de perfil"
+  src="https://github.com/user-attachments/assets/07b1b053-9639-4b1d-90be-789c64723072"
+  width="150" height="150"
+  style="border-radius: 50%; object-fit: cover;"
+/>
+
+</p>
+
+
+
+
 
 ---
 

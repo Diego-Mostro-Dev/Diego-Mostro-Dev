@@ -1,59 +1,55 @@
 <div align="center">
+  <img src="Banner.png" height="1000" alt="Banner" />
   <h1>👋 Hola!</h1>
 </div>
 
-<p align="center">
-  <img
-  alt="Foto de perfil"
-  src="https://github.com/Diego-Mostro-Dev/Diego-Mostro-Dev/issues/3#issue-3434339683"
-  height="150"
-  style="border-radius: 50%; object-fit: cover;"
-/>
+<div>
+  <h2>👨‍💻 Sobre mí</h2>
+  Desarrollador web full-stack | Python, Django, JS, React. Creo soluciones a problemas reales, enfrento desafíos y busco la excelencia     escribiendo código claro, eficiente y bien estructurado. 
+</div>
 
-</p>
+<div>
+  <h2>🛠 Las tecnologías que uso</h2>
+  <p align="center">
+    
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![HTML5](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
----
 
-## 👨‍💻 Sobre mí
+  </p>
+  
+</div>
 
-Desarrollador web full-stack | Python, Django, JS, React. Creo soluciones a problemas reales, enfrento desafíos y busco la excelencia escribiendo código claro, eficiente y bien estructurado. 
+<h2>🌍 Contactame 👨‍💻 </h2>
 
----
+[![Instagram](https://img.shields.io/badge/Instagram-@diegosalvadodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/diegosalvadodev/)
+<br>
+[![Web](https://img.shields.io/badge/Mi_Web-mostrosalvado.com.ar-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mostrosalvado.com.ar/)
+<br>
+[![Email](https://img.shields.io/badge/-diegosalvadodev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegosalvadodev@gmail.com)
 
-## 🛠 Toolkit
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🌍 Where to find me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/diego-alejandro-salvado-307043359/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/diegosalvadodev/" target="_blank">
-    <i class="ri-instagram-line"></i>
-  </a>
-</p>
 
 ---
 
 <details>
-<summary>📊 GitHub stats</summary>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedericoComoglio&theme=default)
-
-</details>
+  <summary>➕Más</summary>
+    - 🔭 Comenzamos con el sitio One Page de la Cooperativa Agropecuaria Federada de Mansilla, que conecta con un e-commerce para la venta de productos directamente del productor al cliente. Dentro del planeamiento del proyecto se encuentra la creación de una API Rest que conecta la base de datos PosgreSQL al frontend del Ecommerce y el despliegue de la API y la BBDD a Render.
+  <br>
+  <br>
+    - 🌱 Estoy aprendiendo muchas cosas siempre, en este momento Gsap, que me parece genial y creo que suma mucho en la calidad y la experiencia del usuario web
+  </details>
 
 ---
-
-🔗 **Credits:** [federicocomoglio](https://github.com/federicocomoglio)  
-🕒 Last Edited on: 07/02/2021
+🕒 Last Edited on: 19/09/2025
 
 
 <!--

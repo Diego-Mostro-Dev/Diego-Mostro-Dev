@@ -33,6 +33,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-@diegosalvadodev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/diegosalvadodev/)
 <br>
+[![Web](https://img.shields.io/badge/Mi_Web-diegosalvadodev.com.ar-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://diegosalvadodev.com.ar/)
+<br>
 [![Web](https://img.shields.io/badge/Mi_Web-mostrosalvado.com.ar-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mostrosalvado.com.ar/)
 <br>
 [![Email](https://img.shields.io/badge/-diegosalvadodev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegosalvadodev@gmail.com)
